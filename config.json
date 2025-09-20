@@ -1,0 +1,6 @@
+{
+  "port": "9527",
+  "workdir": "./uploads",
+  "uploaddir": "./uploads",
+  "file_expiry_hours": 2
+}
